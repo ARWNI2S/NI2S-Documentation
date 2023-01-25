@@ -1,7 +1,7 @@
 # NI2S Documentation
 Design documentation for Narrative Interactive Intelligent Simulator.
 
-![This is an image](/../../../../github/docs/blob/main/assets/images/work-in-progress.png)
+![This is an image](/../../../../ARWNI2S/.github/blob/main/assets/images/work-in-progress.png)
 
 ## UML
 In this folder you can find all the NI2S UML diagrams available; generated during all the development process, including some reversed engineering from sources.
