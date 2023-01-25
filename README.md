@@ -1,6 +1,8 @@
 # NI2S Documentation
 Design documentation for Narrative Interactive Intelligent Simulator.
 
+![This is an image](/../../../../github/docs/blob/main/assets/images/work-in-progress.png)
+
 In this repository you can find the full design documentation for Narrative Interactive Intelligent Simulator (NI2S); including analisys and modeling for almost the full project architecture and processes.
 
 In addition, there is the [repository wiki](https://github.com/ARWNI2S/NI2S-Documentation/wiki) where you can find theorical basis for the system. If you're looking for the answer to something, you may want to start in one of these places:

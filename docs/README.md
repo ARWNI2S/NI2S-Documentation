@@ -1,6 +1,8 @@
 # NI2S Documentation
 Design documentation for Narrative Interactive Intelligent Simulator.
 
+![This is an image](/../../../../github/docs/blob/main/assets/images/work-in-progress.png)
+
 ## docs
 In this folder you can find all the publicly available knowledge base of the development process.
 

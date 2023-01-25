@@ -1,6 +1,8 @@
 # NI2S Documentation
 Design documentation for Narrative Interactive Intelligent Simulator.
 
+![This is an image](/../../../../github/docs/blob/main/assets/images/work-in-progress.png)
+
 ## XMLHelp
 In this folder you can find all the NI2S Api help files; created from source code ///<summary> comments on a per library basis.
 
