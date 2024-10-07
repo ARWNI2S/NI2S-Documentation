@@ -9,6 +9,9 @@ Design documentation for Narrative Interactive Intelligent Simulator.
 ## pub
 In this folder you can find all the NI2S publishings and articles; generated during all the development process.
 
+By now the oly available public file is the [full NI2S document](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/NI2S_full.es.pdf), only available in spanish yet.
+
+
 If you need more, just ask! Many NI2S developers read the [Discussion](https://not.available.yet/latest?exclude_tag=question) and [Q&A](https://not.available.yet/tag/question) forums on the [NI2S Dev Community](https://not.available.yet/community/) site.
 
 //TODO: Rewrite over time...

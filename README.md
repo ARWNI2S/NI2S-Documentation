@@ -12,11 +12,12 @@ In addition, there is the [repository wiki](https://github.com/arwni2s/ni2s-docu
 
 *	If you want to know about project motivation and theories take a look at [NI2S articles and publishings](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/), where you can find interesting readings like:
 	-	An useful introductory [NI2S Whitepaper](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/Whitepaper.pdf).
-	-   A [Tabletop RPG analisys](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/TabletopRPG.pdf), where is defined the theorical environment of the Narrative Interactive Intelligent Simulator.
-	-   The AI RPG Game Lore knowledge base definition [NI2S ontology article](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/NI2SOntology.pdf).
-*   Also take a look to the engineered [UML diagrams](https://github.com/arwni2s/ni2s-documentation/blob/main/UML/) for class and process definitions.
+	-	The [full NI2S document](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/NI2S_full.es.pdf), only available in spanish yet.
+	-   **TODO:** A [Tabletop RPG analisys](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/TabletopRPG.pdf), where is defined the theorical environment of the Narrative Interactive Intelligent Simulator.
+	-   **TODO:** The AI RPG Game Lore knowledge base definition [NI2S ontology article](https://github.com/arwni2s/ni2s-documentation/blob/main/pub/NI2SOntology.pdf).
+*   **TODO:** Also take a look to the engineered [UML diagrams](https://github.com/arwni2s/ni2s-documentation/blob/main/UML/) for class and process definitions.
 *   If you are ready, try the [Development Setup](https://github.com/arwni2s/ni2s-documentation/wiki/Setting-up-your-development-environment-for-NI2S/) to begin creating your first NI2S project.
-*   And for advanced users, just take over [NI2S Api help files.](https://github.com/arwni2s/ni2s-documentation/blob/main/XMLHelp/), created from <summary> comments.
+*   **TODO:** And for advanced users, just take over [NI2S Api help files.](https://github.com/arwni2s/ni2s-documentation/blob/main/XMLHelp/), created from <summary> comments.
 
 If you need more, just ask! Many NI2S developers read the [Discussion](https://not.available.yet/latest?exclude_tag=question) and [Q&A](https://not.available.yet/tag/question) forums on the [NI2S Dev Community](https://not.available.yet/community/) site.
 
